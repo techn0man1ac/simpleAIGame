@@ -5,6 +5,10 @@
 # Overview
 This is a simple game developed using Pygame, where the red square (controlled by an AI) tries to escape from the black square (controlled by the player). The AI believes the player is an enemy and uses four commands - left, right, up, down - to flee from it.
 
+# Video demonstration
+
+https://youtube.com/shorts/unALV4uoLmQ
+
 # Features
 - Player control using the arrow keys
 - AI-driven enemy movement using Ollama's Llama model
