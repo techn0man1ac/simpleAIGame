@@ -1,5 +1,5 @@
 '''
-  Tech01 simple Python game(controlled by an AI) By Serhii Trush with MIT License.
+  Tech01 simple Python game(controlled by AI) By Serhii Trush with MIT License.
   https://github.com/techn0man1ac/simpleAIGame/
   Thank's ChatGPT for help.
   By Tech01 labs 2024.
